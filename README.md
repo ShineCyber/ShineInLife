@@ -3,4 +3,6 @@
 #Salam cyber community
 #Untuk pemasangan ketik :
 
+$ pkg install git
+$ pkg install bash
 $ sh bahan-cyber.txt
