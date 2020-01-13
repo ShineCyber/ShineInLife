@@ -17,6 +17,7 @@ pkg install neofetch
 pkg install curl
 pkg install nmap
 pkg install unzip
+pkg install unrar
 pkg install fish
 pkg install grep
 pkg install sed
