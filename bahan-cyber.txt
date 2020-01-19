@@ -6,7 +6,7 @@ pkg install python3
 pkg install mechanize
 pkg install openssh
 pkg install figlet
-pkg install cow
+pkg install cowsay
 pkg install toilet
 pkg install ruby                                      pkg install cat
 pkg install chroot
