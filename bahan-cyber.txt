@@ -44,10 +44,8 @@ pkg install bash
 pkg install nano
 pkg install flex
 pkg install finch
-pkg update
-pkg upgrade
-apt update
-apt upgrade
+pkg update -y && pkg upgrade -y
+apt update -y && apt upgrade -y
 
 clear
 echo "\033[1;37mSementara bahannya ini aja ^_^"
