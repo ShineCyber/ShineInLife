@@ -51,5 +51,5 @@ apt upgrade
 
 clear
 echo "\033[1;37mSementara bahannya ini aja ^_^"
-echo "\033[1;37mMohon menunggu update selanjutnya"
+echo "\033[1;37mKurang lebihnya seperti ini bahannya"
 exit
