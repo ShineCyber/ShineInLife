@@ -1,53 +1,53 @@
 clear
 
-pkg install python
-pkg install python2
-pkg install python3
-pkg install mechanize
-pkg install openssh
-pkg install figlet
-pkg install cow
-pkg install toilet
-pkg install ruby                                      pkg install cat
-pkg install chroot
-pkg install php
-pkg install nodejs
-pkg install netcat
-pkg install neofetch
-pkg install curl
-pkg install nmap
-pkg install unzip
-pkg install unrar
-pkg install fish
-pkg install grep
-pkg install sed
-pkg install gawk                                      pkg install sed
-pkg install bc
-pkg install busybox
-pkg install coreutils
-pkg install findutils
-pkg install gnupg
-pkg install jq
-pkg install mpv
-pkg install ncurses
-pkg install java
-pkg install html
-pkg install api
-pkg install shell
-pkg install md5sum
-pkg install md5pass
-pkg install crystal
-pkg install ember
-pkg install lolcat
-pkg install git
-pkg install bash
-pkg install nano
-pkg install flex
-pkg install finch
+pkg install python -y
+pkg install python2 -y
+pkg install python3 -y
+pkg install mechanize -y
+pkg install openssh -y
+pkg install figlet -y
+pkg install cow -y
+pkg install toilet -y
+pkg install ruby -y                                  
+pkg install cat -y
+pkg install chroot -y
+pkg install php -y
+pkg install nodejs -y
+pkg install netcat -y
+pkg install neofetch -y
+pkg install curl -y
+pkg install nmap -y
+pkg install unzip -y
+pkg install unrar -y
+pkg install fish -y
+pkg install grep -y
+pkg install sed -y
+pkg install gawk -y                                    
+pkg install sed -y
+pkg install bc -y
+pkg install busybox -y
+pkg install coreutils -y
+pkg install findutils -y
+pkg install gnupg -y
+pkg install jq -y
+pkg install mpv -y
+pkg install ncurses -y
+pkg install api -y
+pkg install shell -y
+pkg install md5sum -y
+pkg install md5pass -y
+pkg install crystal -y
+pkg install ember -y
+pkg install lolcat -y
+pkg install git -y
+pkg install bash -y
+pkg install nano -y
+pkg install flex -y
+pkg install finch -y
 pkg update -y && pkg upgrade -y
 apt update -y && apt upgrade -y
 
 clear
 echo "\033[1;37mSementara bahannya ini aja ^_^"
-echo "\033[1;37mKurang lebihnya seperti ini bahannya"
+echo "\033[1;37mKurang lebihnya seperti ini"
 exit
