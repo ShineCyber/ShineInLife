@@ -1,6 +1,9 @@
 echo "sebelum mulai siapin penyimpanan sekitar 500mb++"
+wait 1.5
 echo "3..."
+wait 1
 echo "2.."
+wait 1
 echo "1."
 echo "</start>"
 clear
