@@ -1,3 +1,8 @@
+echo "sebelum mulai siapin penyimpanan sekitar 500mb++"
+echo "3..."
+echo "2.."
+echo "1."
+echo "</start>"
 clear
 
 pkg install python -y
