@@ -39,7 +39,6 @@ pkg install md5pass -y
 pkg install crystal -y
 pkg install ember -y
 pkg install lolcat -y
-pkg install bash -y
 pkg install nano -y
 pkg install flex -y
 pkg install finch -y
